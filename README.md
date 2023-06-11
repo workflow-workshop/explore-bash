@@ -47,4 +47,7 @@ whole books are written about them.
 ## Shell startup
 
 The `~/.bashrc` file is run every time you start a Bash shell. Add an `echo` 
-command to your `~/.bashrc` to verify this startup process.
+command to your `~/.bashrc` to verify this startup process. Use the `vi` text 
+editor, a summary of this editor's commands is available courtesy of the
+[Theoretical and Computational Biophysics group at UIUC](https://www.ks.uiuc.edu/Training/Tutorials/Reference/virefcard.pdf).
+
